@@ -1,5 +1,19 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Arvind Varsani
+I am a molecular virologist who works across ecosystems from plants to animals and from the tropics to the Antarctic. My research uses a combination of traditional virology, microscopy (including transmission electron microscopy), molecular and cellular biology techniques in conjunction with modern sequencing techniques, synthetic biology and bioinformatics to characterise viruses and understand their dynamics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Arizona State University, Tempe, USA
+6/2023 - current: Professor at the Biodesign Institute and School of Life Sciences
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+07/2016 - 6/2023: Associate Professor at the Biodesign Institute and School of Life Sciences
+
+University of Canterbury, Christchurch, New Zealand
+02/2009 - 07/2016: Senior lecturer / researcher in School of Biological Sciences
+
+University of Cape Town, Cape Town, South Africa
+07/2003 - 09/2008: Lecturer in the Structural Biology Research Unit
+
+University of Cape Town, Cape Town, South Africa
+1998 - 2003: PhD in Molecular and cell biology
+
+Loughborough University, Loughborough, England
+1993 - 1997: BSc, DIS in Medicinal and Pharmaceutical Chemistry
