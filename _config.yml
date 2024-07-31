@@ -9,6 +9,10 @@ last_name: Varsani
 email: mclund2@asu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A data-centric molecular virology research group that studies viral dynamics across ecosystems.
+<<<<<<< HEAD
+=======
+
+>>>>>>> functional
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
