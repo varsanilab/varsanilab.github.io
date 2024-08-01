@@ -1,0 +1,2 @@
+I am a PhD candidate at Duke University using metagenomic and One Health approaches to study viral diversity in
+endemic, invasive, and domestic animals and people. My work focuses on both the captive setting – lemurs and staff at the Duke Lemur Center – and on anthropogenic landscapes – lemurs, rodents, domestic animals, and people in southeastern Madagascar. I completed my undergraduate degree at the University of Notre Dame in 2020 while working with the Amboseli Baboon Research Project.

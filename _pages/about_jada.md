@@ -1,0 +1,2 @@
+23
+I am a student at ASU starting my PhD in Fall 2024. I was born in Boston, MA, spent lots of time in San Diego, CA, and now live in Arizona I got my undergraduate degree at Wellesley College and did lots of research! Some cool projects I’ve worked on are tracking emerging languages, analyzing ancient DNA, and mathematically modeling viruses and video games. I’m so excited to pull these experiences together at ASU. In my free time, I play video games, go on road trips, and/or hang out with family.
