@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: Viral Team
-description: Current Lab Members
+title: people
+description: Viral Team
 nav: true
 nav_order: 7
 
@@ -15,14 +15,13 @@ profiles:
     image: Arvind_ed-2.png
     content: about_arvind.md
     image_circular: false # crops the image to make it circular
-    more_info: >
+
   - align: left
     name: Simona Kraberger
     name_style: "font-size: 1.5em; font-weight: 300; margin-bottom: 0.5em;"
     image: Simona.jpg
     content: about_simona.md
     image_circular: false
-    more_info: >
 
   - align: right
     name: Karla Vargas

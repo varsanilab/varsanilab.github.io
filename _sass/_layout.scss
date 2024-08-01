@@ -32,13 +32,36 @@ body.sticky-bottom-footer {
 }
 
 // Profile
-.profile {
-  img {
-    width: 100%;
-  }
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 2em;
 }
 
-// TODO: redefine content layout.
+.profile-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile img {
+  width: 100%;
+  max-width: 200px; /* Set a max width for better layout control */
+  height: auto;
+}
+
+.profile-name {
+  font-size: 1.5em;
+  font-weight: 300;
+  margin-bottom: 0.5em;
+}
+
+.more-info {
+  text-align: center;
+  margin-top: 1em;
+}
 
 /******************************************************************************
  * Publications
