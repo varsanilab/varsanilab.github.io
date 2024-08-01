@@ -92,6 +92,4 @@ profiles:
     image: elise_ed.jpg
     content: about_elise.md
     image_circular: false
-
-
 ---
