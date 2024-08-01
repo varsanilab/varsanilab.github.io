@@ -1,0 +1,5 @@
+Originally from New Zealand, I completed a PhD in Molecular Microbiology in 2015 at University of Canterbury, New Zealand
+under the supervision of Arvind Varsani and then followed on to take a postdoctoral researcher position in the VandeWoude lab at Colorado State University in Colorado CSU.
+At CSU, I work on a large interdisciplinary NSF funded project investigating feline retrovirus molecular ecology in large wild felids, namely mountain lions, bobcats and lynx.
+
+In 2017, I moved to Phoenix, Arizona, to join the Varsani lab at Arizona State University. As an Assistant Research Scientist, I work on a range of exciting projects, focusing on the ecology and evolution of single-stranded DNA viruses. My current primary projects include “unearthing the honey bee virome and effects of certain viral infections on honey bee behavior” and “Understanding the evolution and ecology of anelloviruses in large species of carnivore”. Being a nature nerd, I love the outdoors and exploring the Arizona desert which is my latest hobby.

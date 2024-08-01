@@ -1,0 +1,3 @@
+I am a PhD student in the Molecular and Cellular Biology program at ASU. My primary research interest is the development of bioinformatics applications and pipelines for the analysis of biological sequencing data. I am in the process of finalizing SDT2: a program written for generation comparisons, analysis and visualizations of sequences similarities through pairwise alignments.
+
+I have recently started to study the principles of machine-learning, neural networks and LLMs and hope to one day apply these concepts by developing tools that identify relationships between viral taxa as well as novel virus discovery. In my spare time, I enjoy going to the gym, 3d printing, working with single-board computers, and spending time with my family.
