@@ -1,3 +1,4 @@
+// assets/css/main.scss
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
@@ -13,6 +14,7 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill",
   "cv",
+  "dropdowns",  // Ensure this matches the filename without underscore and extension
   "tabs",
   "typograms",
   "font-awesome/fontawesome",
