@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: Viral Team
+title: viral team
+description: Current lab members
 nav: true
 nav_order: 7
 
