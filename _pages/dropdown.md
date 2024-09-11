@@ -5,7 +5,7 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: Geneius
+  - title: Geneious
     permalink: https://github.com/varsanilab/Geneious/
   - title: divider
   - title: Scripts
