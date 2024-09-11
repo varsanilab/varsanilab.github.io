@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: SDT 2
+description: Sequence Demarcation Tool 2 - Thelatest iteration of the premier demarcation software
+img: assets/img/SDT2.png
 importance: 2
 category: work
 giscus_comments: true
