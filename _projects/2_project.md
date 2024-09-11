@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SDT 2
-description: Sequence Demarcation Tool 2 - Thelatest iteration of the premier demarcation software
+description: Sequence Demarcation Tool 2 - The most recent iteration of the premier demarcation software
 img: assets/img/SDT2.png
 importance: 2
 category: work
