@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: SDT 2
+description: Sequence Demarcation Tool 2 - The most recent iteration of the premier demarcation software
+img: assets/img/SDT2.png
 importance: 2
 category: work
 giscus_comments: true
@@ -79,3 +79,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+>>>>>>> aee61652c197c5c7d181608e09fc1dece53d3e93
