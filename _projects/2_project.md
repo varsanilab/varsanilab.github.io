@@ -8,8 +8,6 @@ category: work
 giscus_comments: false
 ---
 
-# About the Project
-
 Sequence Demarcation Tool 2 (SDT 2) is the latest iteration of our demarcation software, designed for researchers who need reliable and efficient sequence comparison tools. It provides intuitive visualizations and metrics for determining sequence similarities and has been improved with new features and optimizations.
 
 [GitHub Repository] https://github.com/SDT-org/SDT2

@@ -8,9 +8,6 @@ category: work
 giscus_comments: false
 ---
 
-# About the Project
-
-
 Honeybees and pollinating insects support the replication of numerous plants foundational to the food networks of many terrestrial organisms. Observations of increased honeybee colony yearly mortality rates suggest that honeybees are threatened by many environmental factors including viral pathogens. We work with bee research labs, local wildlife rescue volunteer groups, and  apiarists to characterize viruses that bees may encounter within their large ecological networks. Our work in this field has expanded to include opportunistically sampled Nomia solitary bees and bee-mimicking hoverflies. 
 ---
 
