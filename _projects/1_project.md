@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Big Cat Project
@@ -6,7 +5,7 @@ description: A longitudinal exploration of viral diversity in wild felids
 img: assets/img/felid/caracal_m.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 As apex predators, felid species play an important role in the ecosystem. Many felid species are in decline as a result of several factors, including disease.
