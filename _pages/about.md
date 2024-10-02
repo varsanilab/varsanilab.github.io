@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Global Futures, The Biodesign Center of Fundamental and Applied Microbiomics
+subtitle: Global Futures, The Biodesign Center of Fundamental and Applied Microbiomics, THe Biodeisng Center for Evolutionary Medicine
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 A data-centric molecular virology research group that studies viral dynamics across ecosystems.
