@@ -21,7 +21,7 @@ Honeybees and pollinating insects support the replication of numerous plants fou
         {% include figure.liquid path="assets/img/bee/bee1.jpg" title="example image 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/bee/beee2.jpg" title="example image 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/bee/bee2.jpg" title="example image 2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row mt-3">
@@ -32,11 +32,14 @@ Honeybees and pollinating insects support the replication of numerous plants fou
         {% include figure.liquid path="assets/img/bee/bee4.jpg" title="example image 4" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="row mt-3-2">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/bee/hoverfly1.jpg" title="example image 3" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/bee/nomia_bee1.jpg" title="example image 4" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ---
 
-## Features
-
-- Multiproccessing for fast sequence alignemnt
-- WebView UI for cross platform support (Windows, Mac, Linux)
-- Optimized for large-scale datasets
